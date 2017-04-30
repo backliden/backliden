@@ -1,0 +1,47 @@
+.Style1{font-family: 'Arial',sans-serif;
+font-size: 100px; 
+margin:0;
+color: #4D3D36;
+word-wrap: break-word;}
+.Style2{font-family: 'Arial',sans-serif;
+font-size: 34px; 
+margin:0;
+color: #4D3D36;
+word-wrap: break-word;}
+.Style3{font-family: 'BookmanOldStyle','Bookman Old Style';
+font-size: 18px; 
+margin:0;
+word-wrap: break-word;}
+.Style4{font-family: 'BookmanOldStyle','Bookman Old Style';
+font-size: 36px; 
+margin:0;
+color: #4D3D36;
+word-wrap: break-word;}
+.Style5{font-family: 'Arial',sans-serif;
+font-size: 27px; 
+margin:0;
+color: #4D3D36;
+word-wrap: break-word;}
+.Style6{font-family: 'Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #A69054;
+word-wrap: break-word;}
+.Style7{font-family: 'Arial',sans-serif;
+font-size: 12px; 
+margin:0;
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+.linkStyle_9{font-family: 'Helvetica',sans-serif;
+font-size: 12px; 
+margin:0;
+word-wrap: break-word;}
+a.linkStyle_9:visited{color:#0432FF; text-decoration:underline;}
+a.linkStyle_9:hover{color:#FF2600; text-decoration:underline;}
+.linkStyle_12{font-family: 'Helvetica',sans-serif;
+color: #0432FF;
+text-decoration: underline; 
+/*000#00F900#0432FF#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_12:visited{color:#0432FF; text-decoration:underline;}
+a.linkStyle_12:hover{color:#FF2600; text-decoration:underline;}
